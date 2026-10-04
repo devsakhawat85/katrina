@@ -5,6 +5,7 @@
 
 [build.environment]
   NODE_VERSION = "20"
+  NPM_FLAGS = "--legacy-peer-deps"
 
 # SPA Fallback: guarantees client-side navigation works seamlessly on all direct URLs & refreshes
 [[redirects]]
