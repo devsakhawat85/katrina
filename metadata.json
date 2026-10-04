@@ -1,0 +1,6 @@
+{
+  "name": "Mind & Body Mastery",
+  "description": "Mind & Body Mastery by Katharina Tschurtschenthaler — Fusing ancient yoga wisdom with modern nervous-system management to unleash your full potential.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
